@@ -10,7 +10,7 @@ namespace AlgorithmProblems
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Algorithm Program!");
+            InsertionSort.SortArray();
             Console.ReadLine();
         }
     }
