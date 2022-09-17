@@ -11,6 +11,7 @@ namespace AlgorithmProblems
         static void Main(string[] args)
         {
             InsertionSort.SortArray();
+            AnagramProgram.Anagrametection();
             Console.ReadLine();
         }
     }
