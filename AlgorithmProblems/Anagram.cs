@@ -11,7 +11,7 @@ namespace AlgorithmProblems
         public static void Anagrametection()
         {
             string str1 = "heart";
-            string str2 = "Eartha";
+            string str2 = "Earth";
 
             char[] ch1 = str1.ToLower().ToCharArray();
             char[] ch2 = str2.ToLower().ToCharArray();

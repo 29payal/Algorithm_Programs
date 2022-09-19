@@ -12,6 +12,7 @@ namespace AlgorithmProblems
         {
             InsertionSort.SortArray();
             AnagramProgram.Anagrametection();
+            Permutation.Permulate();
             Console.ReadLine();
         }
     }
