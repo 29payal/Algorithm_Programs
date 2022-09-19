@@ -8,11 +8,12 @@ namespace AlgorithmProblems
 {
     internal class Program
     {
-        static void Main(string[] args)
+          static void Main(string[] args)
         {
             InsertionSort.SortArray();
             AnagramProgram.Anagrametection();
             Permutation.Permulate();
+            BubbleSort.bubblesort();
             Console.ReadLine();
         }
     }

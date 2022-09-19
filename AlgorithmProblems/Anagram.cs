@@ -10,6 +10,7 @@ namespace AlgorithmProblems
     {
         public static void Anagrametection()
         {
+            Console.WriteLine(" ||  Enter the Words for Anagram  ||");
             string str1 = "heart";
             string str2 = "Earth";
 

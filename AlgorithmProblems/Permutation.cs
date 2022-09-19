@@ -29,7 +29,7 @@ namespace AlgorithmProblems
         {
             String s;
             String answer=" ";
-            Console.WriteLine("Enter the string : ");
+            Console.WriteLine(" || Enter the string for Permutation || ");
             s= Console.ReadLine();
             Console.WriteLine("\nALL possible strings are : ");
             permute(s, answer);

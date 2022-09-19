@@ -29,9 +29,9 @@ namespace AlgorithmProblems
                         flag = 1;
                 }
             }
-
+            Console.WriteLine(" ||  Elements for insertion sort  ||");
             foreach (int e in array)
-            {
+            {  
                 Console.WriteLine(e);
             }
         }
